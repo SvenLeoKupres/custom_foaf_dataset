@@ -1,0 +1,106 @@
+<Humans>
+	<Human id="Saša Škrtić">
+		<name>Saša</name>
+		<surname>Škrtić</surname>
+		<age>17</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Duje Ravlić"/>
+			<friend ref="Zoran Goreta"/>
+			<friend ref="Jagoda Draženović"/>
+			<friend ref="Monika Rimac"/>
+		</friends>
+	</Human>
+	<Human id="Duje Ravlić">
+		<name>Duje</name>
+		<surname>Ravlić</surname>
+		<age>18</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Saša Škrtić"/>
+			<friend ref="Ivo Čelina"/>
+			<friend ref="Mirjam Devčić"/>
+		</friends>
+	</Human>
+	<Human id="Eduard Tutić">
+		<name>Eduard</name>
+		<surname>Tutić</surname>
+		<age>21</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Zoran Goreta"/>
+			<friend ref="Ivo Čelina"/>
+			<friend ref="Monika Rimac"/>
+			<friend ref="Nada Sudar"/>
+		</friends>
+	</Human>
+	<Human id="Zoran Goreta">
+		<name>Zoran</name>
+		<surname>Goreta</surname>
+		<age>39</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Saša Škrtić"/>
+			<friend ref="Eduard Tutić"/>
+		</friends>
+	</Human>
+	<Human id="Ivo Čelina">
+		<name>Ivo</name>
+		<surname>Čelina</surname>
+		<age>24</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Duje Ravlić"/>
+			<friend ref="Eduard Tutić"/>
+			<friend ref="Jagoda Draženović"/>
+		</friends>
+	</Human>
+	<Human id="Jagoda Draženović">
+		<name>Jagoda</name>
+		<surname>Draženović</surname>
+		<age>11</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Saša Škrtić"/>
+			<friend ref="Ivo Čelina"/>
+		</friends>
+	</Human>
+	<Human id="Monika Rimac">
+		<name>Monika</name>
+		<surname>Rimac</surname>
+		<age>10</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Saša Škrtić"/>
+			<friend ref="Eduard Tutić"/>
+		</friends>
+	</Human>
+	<Human id="Mia Popić">
+		<name>Mia</name>
+		<surname>Popić</surname>
+		<age>18</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Mirjam Devčić"/>
+		</friends>
+	</Human>
+	<Human id="Nada Sudar">
+		<name>Nada</name>
+		<surname>Sudar</surname>
+		<age>19</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Eduard Tutić"/>
+		</friends>
+	</Human>
+	<Human id="Mirjam Devčić">
+		<name>Mirjam</name>
+		<surname>Devčić</surname>
+		<age>41</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Duje Ravlić"/>
+			<friend ref="Mia Popić"/>
+		</friends>
+	</Human>
+</Humans>

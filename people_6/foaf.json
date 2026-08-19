@@ -1,0 +1,77 @@
+{
+	"people": [
+	{
+		"human": {
+			"id": "0",
+			"name": "Saša",
+			"surname": "Škrtić",
+			"age": "43",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "1"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "1",
+			"name": "Duje",
+			"surname": "Ravlić",
+			"age": "35",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "0"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "2",
+			"name": "Eduard",
+			"surname": "Tutić",
+			"age": "43",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "5"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "3",
+			"name": "Jagoda",
+			"surname": "Draženović",
+			"age": "20",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "4"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "4",
+			"name": "Monika",
+			"surname": "Rimac",
+			"age": "20",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "3"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "5",
+			"name": "Mia",
+			"surname": "Popić",
+			"age": "27",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "2"}
+			]	
+	}
+	}
+
+	]
+}

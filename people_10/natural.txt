@@ -1,0 +1,54 @@
+Saša Škrtić and Monika Rimac are friends.
+Saša Škrtić and Duje Ravlić are friends.
+Saša Škrtić and Jagoda Draženović are friends.
+Saša Škrtić is 17 years old.
+Saša Škrtić is a male.
+Saša Škrtić and Zoran Goreta are friends.
+
+Duje Ravlić and Saša Škrtić are friends.
+Duje Ravlić is 18 years old.
+Duje Ravlić is a male.
+Duje Ravlić and Mirjam Devčić are friends.
+Duje Ravlić and Ivo Čelina are friends.
+
+Eduard Tutić and Ivo Čelina are friends.
+Eduard Tutić and Nada Sudar are friends.
+Eduard Tutić and Zoran Goreta are friends.
+Eduard Tutić and Monika Rimac are friends.
+Eduard Tutić is a male.
+Eduard Tutić is 21 years old.
+
+Zoran Goreta and Saša Škrtić are friends.
+Zoran Goreta and Eduard Tutić are friends.
+Zoran Goreta is a male.
+Zoran Goreta is 39 years old.
+
+Ivo Čelina and Eduard Tutić are friends.
+Ivo Čelina is a male.
+Ivo Čelina is 24 years old.
+Ivo Čelina and Duje Ravlić are friends.
+Ivo Čelina and Jagoda Draženović are friends.
+
+Jagoda Draženović and Saša Škrtić are friends.
+Jagoda Draženović is 11 years old.
+Jagoda Draženović and Ivo Čelina are friends.
+Jagoda Draženović is a female.
+
+Monika Rimac is 10 years old.
+Monika Rimac is a female.
+Monika Rimac and Saša Škrtić are friends.
+Monika Rimac and Eduard Tutić are friends.
+
+Mia Popić is a female.
+Mia Popić is 18 years old.
+Mia Popić and Mirjam Devčić are friends.
+
+Nada Sudar and Eduard Tutić are friends.
+Nada Sudar is 19 years old.
+Nada Sudar is a female.
+
+Mirjam Devčić is a female.
+Mirjam Devčić and Mia Popić are friends.
+Mirjam Devčić and Duje Ravlić are friends.
+Mirjam Devčić is 41 years old.
+

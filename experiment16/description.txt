@@ -1,0 +1,12 @@
+23.4.2026.
+used model: Llama-3.2-3B-Instruct
+results in: test1.xlsx, test2.xlsx, test3.xlsx, test4.xlsx, test5.xlsx (ran multiple times to compare results, all but the first only asked the first 2 questions)
+number of generated tokens: 20
+number of used datapoints (people): 6, 10, 14, 20 (tried all 4) - each in the sheet labeled with the number of people considered
+method: wrote a SPARQL query for each question being posed. The answer was extracted from the data and then given to the LLM in the system prompt.
+The system prompt used is: "Respond to the given question with a complete sentence, incorporating the provided answer. Keep the sentence short and limit the generated information to only the provided answer! The short answer to the question is: "
+The answer to the question was appended to the system prompt.
+The question was given in the user prompt.
+
+
+Note: struggled with actually using the given answer. Seemed to work only on the questions where the answer could be extracted from the question (first name, last name and gender)

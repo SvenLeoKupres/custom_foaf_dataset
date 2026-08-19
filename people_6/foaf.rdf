@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:schema="http://schema.org/">
+
+	<foaf:Person rdf:about="#person0">
+		<foaf:givenName>Saša</foaf:givenName>
+		<foaf:familyName>Škrtić</foaf:familyName>
+		<foaf:age>43</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#person1"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#person1">
+		<foaf:givenName>Duje</foaf:givenName>
+		<foaf:familyName>Ravlić</foaf:familyName>
+		<foaf:age>35</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#person0"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#person2">
+		<foaf:givenName>Eduard</foaf:givenName>
+		<foaf:familyName>Tutić</foaf:familyName>
+		<foaf:age>43</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#person5"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#person3">
+		<foaf:givenName>Jagoda</foaf:givenName>
+		<foaf:familyName>Draženović</foaf:familyName>
+		<foaf:age>20</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#person4"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#person4">
+		<foaf:givenName>Monika</foaf:givenName>
+		<foaf:familyName>Rimac</foaf:familyName>
+		<foaf:age>20</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#person3"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#person5">
+		<foaf:givenName>Mia</foaf:givenName>
+		<foaf:familyName>Popić</foaf:familyName>
+		<foaf:age>27</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#person2"/>
+	</foaf:Person>
+</rdf:RDF>

@@ -1,0 +1,24 @@
+Saša Škrtić is 43 years old.
+Saša Škrtić is a male.
+Saša Škrtić and Duje Ravlić are friends.
+
+Duje Ravlić is 35 years old.
+Duje Ravlić is a male.
+Duje Ravlić and Saša Škrtić are friends.
+
+Eduard Tutić is 43 years old.
+Eduard Tutić is a male.
+Eduard Tutić and Mia Popić are friends.
+
+Jagoda Draženović is 20 years old.
+Jagoda Draženović is a female.
+Jagoda Draženović and Monika Rimac are friends.
+
+Monika Rimac is 20 years old.
+Monika Rimac is a female.
+Monika Rimac and Jagoda Draženović are friends.
+
+Mia Popić is 27 years old.
+Mia Popić is a female.
+Mia Popić and Eduard Tutić are friends.
+

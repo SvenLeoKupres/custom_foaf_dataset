@@ -1,0 +1,92 @@
+Saša Škrtić is 65 years old.
+Saša Škrtić is a male.
+Saša Škrtić and Nada Sudar are friends.
+Saša Škrtić and Zoran Goreta are friends.
+
+Duje Ravlić is 38 years old.
+Duje Ravlić is a male.
+Duje Ravlić and Antonija Salinović are friends.
+
+Eduard Tutić is 64 years old.
+Eduard Tutić is a male.
+Eduard Tutić and Zoran Goreta are friends.
+Eduard Tutić and Mia Popić are friends.
+Eduard Tutić and Nada Sudar are friends.
+Eduard Tutić and Monika Rimac are friends.
+Eduard Tutić and Antonija Salinović are friends.
+Eduard Tutić and Mirjam Devčić are friends.
+
+Zoran Goreta is 12 years old.
+Zoran Goreta is a male.
+Zoran Goreta and Eduard Tutić are friends.
+Zoran Goreta and Mia Popić are friends.
+Zoran Goreta and Monika Rimac are friends.
+Zoran Goreta and Saša Škrtić are friends.
+
+Ivo Čelina is 27 years old.
+Ivo Čelina is a male.
+
+Gordan Lucić is 28 years old.
+Gordan Lucić is a male.
+Gordan Lucić and Nada Sudar are friends.
+Gordan Lucić and Jagoda Draženović are friends.
+Gordan Lucić and Ljubomir Jurišić are friends.
+
+Ljubomir Jurišić is 38 years old.
+Ljubomir Jurišić is a male.
+Ljubomir Jurišić and Antonija Salinović are friends.
+Ljubomir Jurišić and Jagoda Draženović are friends.
+Ljubomir Jurišić and Gordan Lucić are friends.
+
+Jagoda Draženović is 61 years old.
+Jagoda Draženović is a female.
+Jagoda Draženović and Ljubomir Jurišić are friends.
+Jagoda Draženović and Mia Popić are friends.
+Jagoda Draženović and Nada Sudar are friends.
+Jagoda Draženović and Gordan Lucić are friends.
+
+Monika Rimac is 16 years old.
+Monika Rimac is a female.
+Monika Rimac and Zoran Goreta are friends.
+Monika Rimac and Eduard Tutić are friends.
+
+Mia Popić is 22 years old.
+Mia Popić is a female.
+Mia Popić and Antonija Salinović are friends.
+Mia Popić and Mirjam Devčić are friends.
+Mia Popić and Zoran Goreta are friends.
+Mia Popić and Jagoda Draženović are friends.
+Mia Popić and Eduard Tutić are friends.
+Mia Popić and Lea Grubić are friends.
+
+Nada Sudar is 25 years old.
+Nada Sudar is a female.
+Nada Sudar and Jagoda Draženović are friends.
+Nada Sudar and Gordan Lucić are friends.
+Nada Sudar and Eduard Tutić are friends.
+Nada Sudar and Saša Škrtić are friends.
+Nada Sudar and Lea Grubić are friends.
+Nada Sudar and Mirjam Devčić are friends.
+Nada Sudar and Antonija Salinović are friends.
+
+Mirjam Devčić is 69 years old.
+Mirjam Devčić is a female.
+Mirjam Devčić and Mia Popić are friends.
+Mirjam Devčić and Lea Grubić are friends.
+Mirjam Devčić and Nada Sudar are friends.
+Mirjam Devčić and Eduard Tutić are friends.
+
+Lea Grubić is 51 years old.
+Lea Grubić is a female.
+Lea Grubić and Mirjam Devčić are friends.
+Lea Grubić and Mia Popić are friends.
+Lea Grubić and Nada Sudar are friends.
+
+Antonija Salinović is 21 years old.
+Antonija Salinović is a female.
+Antonija Salinović and Ljubomir Jurišić are friends.
+Antonija Salinović and Mia Popić are friends.
+Antonija Salinović and Duje Ravlić are friends.
+Antonija Salinović and Eduard Tutić are friends.
+Antonija Salinović and Nada Sudar are friends.
+

@@ -1,0 +1,56 @@
+<Humans>
+	<Human id="Saša Škrtić">
+		<name>Saša</name>
+		<surname>Škrtić</surname>
+		<age>43</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Duje Ravlić"/>
+		</friends>
+	</Human>
+	<Human id="Duje Ravlić">
+		<name>Duje</name>
+		<surname>Ravlić</surname>
+		<age>35</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Saša Škrtić"/>
+		</friends>
+	</Human>
+	<Human id="Eduard Tutić">
+		<name>Eduard</name>
+		<surname>Tutić</surname>
+		<age>43</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Mia Popić"/>
+		</friends>
+	</Human>
+	<Human id="Jagoda Draženović">
+		<name>Jagoda</name>
+		<surname>Draženović</surname>
+		<age>20</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Monika Rimac"/>
+		</friends>
+	</Human>
+	<Human id="Monika Rimac">
+		<name>Monika</name>
+		<surname>Rimac</surname>
+		<age>20</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Jagoda Draženović"/>
+		</friends>
+	</Human>
+	<Human id="Mia Popić">
+		<name>Mia</name>
+		<surname>Popić</surname>
+		<age>27</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Eduard Tutić"/>
+		</friends>
+	</Human>
+</Humans>

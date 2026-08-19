@@ -1,0 +1,164 @@
+<Humans>
+	<Human id="Saša Škrtić">
+		<name>Saša</name>
+		<surname>Škrtić</surname>
+		<age>65</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Nada Sudar"/>
+			<friend ref="Zoran Goreta"/>
+		</friends>
+	</Human>
+	<Human id="Duje Ravlić">
+		<name>Duje</name>
+		<surname>Ravlić</surname>
+		<age>38</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Antonija Salinović"/>
+		</friends>
+	</Human>
+	<Human id="Eduard Tutić">
+		<name>Eduard</name>
+		<surname>Tutić</surname>
+		<age>64</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Zoran Goreta"/>
+			<friend ref="Mia Popić"/>
+			<friend ref="Nada Sudar"/>
+			<friend ref="Monika Rimac"/>
+			<friend ref="Antonija Salinović"/>
+			<friend ref="Mirjam Devčić"/>
+		</friends>
+	</Human>
+	<Human id="Zoran Goreta">
+		<name>Zoran</name>
+		<surname>Goreta</surname>
+		<age>12</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Eduard Tutić"/>
+			<friend ref="Mia Popić"/>
+			<friend ref="Monika Rimac"/>
+			<friend ref="Saša Škrtić"/>
+		</friends>
+	</Human>
+	<Human id="Ivo Čelina">
+		<name>Ivo</name>
+		<surname>Čelina</surname>
+		<age>27</age>
+		<gender>MALE</gender>
+		<friends>
+		</friends>
+	</Human>
+	<Human id="Gordan Lucić">
+		<name>Gordan</name>
+		<surname>Lucić</surname>
+		<age>28</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Nada Sudar"/>
+			<friend ref="Jagoda Draženović"/>
+			<friend ref="Ljubomir Jurišić"/>
+		</friends>
+	</Human>
+	<Human id="Ljubomir Jurišić">
+		<name>Ljubomir</name>
+		<surname>Jurišić</surname>
+		<age>38</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="Antonija Salinović"/>
+			<friend ref="Jagoda Draženović"/>
+			<friend ref="Gordan Lucić"/>
+		</friends>
+	</Human>
+	<Human id="Jagoda Draženović">
+		<name>Jagoda</name>
+		<surname>Draženović</surname>
+		<age>61</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Ljubomir Jurišić"/>
+			<friend ref="Mia Popić"/>
+			<friend ref="Nada Sudar"/>
+			<friend ref="Gordan Lucić"/>
+		</friends>
+	</Human>
+	<Human id="Monika Rimac">
+		<name>Monika</name>
+		<surname>Rimac</surname>
+		<age>16</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Zoran Goreta"/>
+			<friend ref="Eduard Tutić"/>
+		</friends>
+	</Human>
+	<Human id="Mia Popić">
+		<name>Mia</name>
+		<surname>Popić</surname>
+		<age>22</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Antonija Salinović"/>
+			<friend ref="Mirjam Devčić"/>
+			<friend ref="Zoran Goreta"/>
+			<friend ref="Jagoda Draženović"/>
+			<friend ref="Eduard Tutić"/>
+			<friend ref="Lea Grubić"/>
+		</friends>
+	</Human>
+	<Human id="Nada Sudar">
+		<name>Nada</name>
+		<surname>Sudar</surname>
+		<age>25</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Jagoda Draženović"/>
+			<friend ref="Gordan Lucić"/>
+			<friend ref="Eduard Tutić"/>
+			<friend ref="Saša Škrtić"/>
+			<friend ref="Lea Grubić"/>
+			<friend ref="Mirjam Devčić"/>
+			<friend ref="Antonija Salinović"/>
+		</friends>
+	</Human>
+	<Human id="Mirjam Devčić">
+		<name>Mirjam</name>
+		<surname>Devčić</surname>
+		<age>69</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Mia Popić"/>
+			<friend ref="Lea Grubić"/>
+			<friend ref="Nada Sudar"/>
+			<friend ref="Eduard Tutić"/>
+		</friends>
+	</Human>
+	<Human id="Lea Grubić">
+		<name>Lea</name>
+		<surname>Grubić</surname>
+		<age>51</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Mirjam Devčić"/>
+			<friend ref="Mia Popić"/>
+			<friend ref="Nada Sudar"/>
+		</friends>
+	</Human>
+	<Human id="Antonija Salinović">
+		<name>Antonija</name>
+		<surname>Salinović</surname>
+		<age>21</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="Ljubomir Jurišić"/>
+			<friend ref="Mia Popić"/>
+			<friend ref="Duje Ravlić"/>
+			<friend ref="Eduard Tutić"/>
+			<friend ref="Nada Sudar"/>
+		</friends>
+	</Human>
+</Humans>

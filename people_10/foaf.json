@@ -1,0 +1,139 @@
+{
+	"people": [
+	{
+		"human": {
+			"id": "0",
+			"name": "Saša",
+			"surname": "Škrtić",
+			"age": "17",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "1"},
+				{"friend": "3"},
+				{"friend": "5"},
+				{"friend": "6"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "1",
+			"name": "Duje",
+			"surname": "Ravlić",
+			"age": "18",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "0"},
+				{"friend": "4"},
+				{"friend": "9"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "2",
+			"name": "Eduard",
+			"surname": "Tutić",
+			"age": "21",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "3"},
+				{"friend": "4"},
+				{"friend": "6"},
+				{"friend": "8"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "3",
+			"name": "Zoran",
+			"surname": "Goreta",
+			"age": "39",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "0"},
+				{"friend": "2"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "4",
+			"name": "Ivo",
+			"surname": "Čelina",
+			"age": "24",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "1"},
+				{"friend": "2"},
+				{"friend": "5"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "5",
+			"name": "Jagoda",
+			"surname": "Draženović",
+			"age": "11",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "0"},
+				{"friend": "4"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "6",
+			"name": "Monika",
+			"surname": "Rimac",
+			"age": "10",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "0"},
+				{"friend": "2"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "7",
+			"name": "Mia",
+			"surname": "Popić",
+			"age": "18",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "9"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "8",
+			"name": "Nada",
+			"surname": "Sudar",
+			"age": "19",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "2"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "9",
+			"name": "Mirjam",
+			"surname": "Devčić",
+			"age": "41",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "1"},
+				{"friend": "7"}
+			]	
+	}
+	}
+
+	]
+}

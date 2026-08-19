@@ -1,0 +1,8 @@
+used model: Qwen2.5-3B-Instruct
+results in: test0.xlsx-test4.xlsx
+-sheets are named in the format "[data_format]_people[num_people]"
+number of generated tokens: 20
+number of used datapoints (people): 6, 10, 14, 20 (tried all 4) - each in the sheet labeled with the number of people considered
+method: Gave only the XML with names as IDs/NL data of the person considered in the query (the best and worst performing formats previously) into the system prompt before the instruction.
+The system prompt used is: Answer the question in the shortest way possible.
+The question was given in the user prompt.

@@ -1,0 +1,77 @@
+{
+	"people": [
+	{
+		"human": {
+			"id": "Saša Škrtić",
+			"name": "Saša",
+			"surname": "Škrtić",
+			"age": "43",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Duje Ravlić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Duje Ravlić",
+			"name": "Duje",
+			"surname": "Ravlić",
+			"age": "35",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Saša Škrtić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Eduard Tutić",
+			"name": "Eduard",
+			"surname": "Tutić",
+			"age": "43",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Mia Popić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Jagoda Draženović",
+			"name": "Jagoda",
+			"surname": "Draženović",
+			"age": "20",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Monika Rimac"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Monika Rimac",
+			"name": "Monika",
+			"surname": "Rimac",
+			"age": "20",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Jagoda Draženović"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Mia Popić",
+			"name": "Mia",
+			"surname": "Popić",
+			"age": "27",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Eduard Tutić"}
+			]	
+	}
+	}
+
+	]
+}

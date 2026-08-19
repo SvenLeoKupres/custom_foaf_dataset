@@ -1,0 +1,20 @@
+26.2.2026.
+used model: Llama-3.2-3B-Instruct
+results in: test.xlsx, test1.xlsx, test2.xlsx, test3.xlsx, test4.xlsx (test1.xlsx-test4.xlsx do not contain any questions formats)
+used formats:
+    XML of the class, the IDs are numbers (foaf.xml),
+    natural language sentences (natural.txt),
+    natural language questions (questions.txt),
+    natural language questions within a JSON structure (questions.json),
+    RDF/XML of the class, the IDs are numbers (foaf.rdf),
+    JSON of the class, the IDs are numbers (foaf.json) (from experiment 14),
+    JSON of the class, IDs are people's full names (foaf_names.json) (from experiment 5),
+    natural language questions with XML structure (questions.xml) (from experiment 5),
+    XML of the class, the IDs are people's full names (foaf_names.xml) (from experiment 5),
+    RDF/XML of the class, the IDs are people's full names (foaf_names.rdf) (from experiment 5),
+    natural language sentences within a JSON structure (natural.json) (from experiment 5)
+number of generated tokens: 10
+number of used datapoints (people): 10
+method: added the contents of the file as a system prompt, as well as the line "Answer questions about this data in as few words as possible"
+
+notes: most of the "half true" cells for foaf.xml is the model running out of tokens to finish the friend list

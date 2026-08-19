@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#
+	xmlns:foaf="http://xmlns.com/foaf/0.1/
+xmlns:schema="http://schema.org/">
+
+	<foaf:Person rdf:about="#Saša_Škrtić">
+		<foaf:givenName>Saša</foaf:givenName>
+		<foaf:familyName>Škrtić</foaf:familyName>
+		<foaf:age>65</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#Nada_Sudar"/>
+		<foaf:knows rdf:resource="#Zoran_Goreta"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Duje_Ravlić">
+		<foaf:givenName>Duje</foaf:givenName>
+		<foaf:familyName>Ravlić</foaf:familyName>
+		<foaf:age>38</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#Antonija_Salinović"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Eduard_Tutić">
+		<foaf:givenName>Eduard</foaf:givenName>
+		<foaf:familyName>Tutić</foaf:familyName>
+		<foaf:age>64</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#Zoran_Goreta"/>
+		<foaf:knows rdf:resource="#Mia_Popić"/>
+		<foaf:knows rdf:resource="#Nada_Sudar"/>
+		<foaf:knows rdf:resource="#Monika_Rimac"/>
+		<foaf:knows rdf:resource="#Antonija_Salinović"/>
+		<foaf:knows rdf:resource="#Mirjam_Devčić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Zoran_Goreta">
+		<foaf:givenName>Zoran</foaf:givenName>
+		<foaf:familyName>Goreta</foaf:familyName>
+		<foaf:age>12</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#Eduard_Tutić"/>
+		<foaf:knows rdf:resource="#Mia_Popić"/>
+		<foaf:knows rdf:resource="#Monika_Rimac"/>
+		<foaf:knows rdf:resource="#Saša_Škrtić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Ivo_Čelina">
+		<foaf:givenName>Ivo</foaf:givenName>
+		<foaf:familyName>Čelina</foaf:familyName>
+		<foaf:age>27</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Gordan_Lucić">
+		<foaf:givenName>Gordan</foaf:givenName>
+		<foaf:familyName>Lucić</foaf:familyName>
+		<foaf:age>28</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#Nada_Sudar"/>
+		<foaf:knows rdf:resource="#Jagoda_Draženović"/>
+		<foaf:knows rdf:resource="#Ljubomir_Jurišić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Ljubomir_Jurišić">
+		<foaf:givenName>Ljubomir</foaf:givenName>
+		<foaf:familyName>Jurišić</foaf:familyName>
+		<foaf:age>38</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#Antonija_Salinović"/>
+		<foaf:knows rdf:resource="#Jagoda_Draženović"/>
+		<foaf:knows rdf:resource="#Gordan_Lucić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Jagoda_Draženović">
+		<foaf:givenName>Jagoda</foaf:givenName>
+		<foaf:familyName>Draženović</foaf:familyName>
+		<foaf:age>61</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Ljubomir_Jurišić"/>
+		<foaf:knows rdf:resource="#Mia_Popić"/>
+		<foaf:knows rdf:resource="#Nada_Sudar"/>
+		<foaf:knows rdf:resource="#Gordan_Lucić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Monika_Rimac">
+		<foaf:givenName>Monika</foaf:givenName>
+		<foaf:familyName>Rimac</foaf:familyName>
+		<foaf:age>16</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Zoran_Goreta"/>
+		<foaf:knows rdf:resource="#Eduard_Tutić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Mia_Popić">
+		<foaf:givenName>Mia</foaf:givenName>
+		<foaf:familyName>Popić</foaf:familyName>
+		<foaf:age>22</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Antonija_Salinović"/>
+		<foaf:knows rdf:resource="#Mirjam_Devčić"/>
+		<foaf:knows rdf:resource="#Zoran_Goreta"/>
+		<foaf:knows rdf:resource="#Jagoda_Draženović"/>
+		<foaf:knows rdf:resource="#Eduard_Tutić"/>
+		<foaf:knows rdf:resource="#Lea_Grubić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Nada_Sudar">
+		<foaf:givenName>Nada</foaf:givenName>
+		<foaf:familyName>Sudar</foaf:familyName>
+		<foaf:age>25</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Jagoda_Draženović"/>
+		<foaf:knows rdf:resource="#Gordan_Lucić"/>
+		<foaf:knows rdf:resource="#Eduard_Tutić"/>
+		<foaf:knows rdf:resource="#Saša_Škrtić"/>
+		<foaf:knows rdf:resource="#Lea_Grubić"/>
+		<foaf:knows rdf:resource="#Mirjam_Devčić"/>
+		<foaf:knows rdf:resource="#Antonija_Salinović"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Mirjam_Devčić">
+		<foaf:givenName>Mirjam</foaf:givenName>
+		<foaf:familyName>Devčić</foaf:familyName>
+		<foaf:age>69</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Mia_Popić"/>
+		<foaf:knows rdf:resource="#Lea_Grubić"/>
+		<foaf:knows rdf:resource="#Nada_Sudar"/>
+		<foaf:knows rdf:resource="#Eduard_Tutić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Lea_Grubić">
+		<foaf:givenName>Lea</foaf:givenName>
+		<foaf:familyName>Grubić</foaf:familyName>
+		<foaf:age>51</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Mirjam_Devčić"/>
+		<foaf:knows rdf:resource="#Mia_Popić"/>
+		<foaf:knows rdf:resource="#Nada_Sudar"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Antonija_Salinović">
+		<foaf:givenName>Antonija</foaf:givenName>
+		<foaf:familyName>Salinović</foaf:familyName>
+		<foaf:age>21</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Ljubomir_Jurišić"/>
+		<foaf:knows rdf:resource="#Mia_Popić"/>
+		<foaf:knows rdf:resource="#Duje_Ravlić"/>
+		<foaf:knows rdf:resource="#Eduard_Tutić"/>
+		<foaf:knows rdf:resource="#Nada_Sudar"/>
+	</foaf:Person>
+</rdf:RDF>

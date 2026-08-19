@@ -1,0 +1,106 @@
+<Humans>
+	<Human id="0">
+		<name>Saša</name>
+		<surname>Škrtić</surname>
+		<age>17</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="1"/>
+			<friend ref="3"/>
+			<friend ref="5"/>
+			<friend ref="6"/>
+		</friends>
+	</Human>
+	<Human id="1">
+		<name>Duje</name>
+		<surname>Ravlić</surname>
+		<age>18</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="0"/>
+			<friend ref="4"/>
+			<friend ref="9"/>
+		</friends>
+	</Human>
+	<Human id="2">
+		<name>Eduard</name>
+		<surname>Tutić</surname>
+		<age>21</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="3"/>
+			<friend ref="4"/>
+			<friend ref="6"/>
+			<friend ref="8"/>
+		</friends>
+	</Human>
+	<Human id="3">
+		<name>Zoran</name>
+		<surname>Goreta</surname>
+		<age>39</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="0"/>
+			<friend ref="2"/>
+		</friends>
+	</Human>
+	<Human id="4">
+		<name>Ivo</name>
+		<surname>Čelina</surname>
+		<age>24</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="1"/>
+			<friend ref="2"/>
+			<friend ref="5"/>
+		</friends>
+	</Human>
+	<Human id="5">
+		<name>Jagoda</name>
+		<surname>Draženović</surname>
+		<age>11</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="0"/>
+			<friend ref="4"/>
+		</friends>
+	</Human>
+	<Human id="6">
+		<name>Monika</name>
+		<surname>Rimac</surname>
+		<age>10</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="0"/>
+			<friend ref="2"/>
+		</friends>
+	</Human>
+	<Human id="7">
+		<name>Mia</name>
+		<surname>Popić</surname>
+		<age>18</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="9"/>
+		</friends>
+	</Human>
+	<Human id="8">
+		<name>Nada</name>
+		<surname>Sudar</surname>
+		<age>19</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="2"/>
+		</friends>
+	</Human>
+	<Human id="9">
+		<name>Mirjam</name>
+		<surname>Devčić</surname>
+		<age>41</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="1"/>
+			<friend ref="7"/>
+		</friends>
+	</Human>
+</Humans>

@@ -1,0 +1,209 @@
+{
+	"people": [
+	{
+		"human": {
+			"id": "Saša Škrtić",
+			"name": "Saša",
+			"surname": "Škrtić",
+			"age": "65",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Nada Sudar"},
+				{"friend": "Zoran Goreta"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Duje Ravlić",
+			"name": "Duje",
+			"surname": "Ravlić",
+			"age": "38",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Antonija Salinović"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Eduard Tutić",
+			"name": "Eduard",
+			"surname": "Tutić",
+			"age": "64",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Zoran Goreta"},
+				{"friend": "Mia Popić"},
+				{"friend": "Nada Sudar"},
+				{"friend": "Monika Rimac"},
+				{"friend": "Antonija Salinović"},
+				{"friend": "Mirjam Devčić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Zoran Goreta",
+			"name": "Zoran",
+			"surname": "Goreta",
+			"age": "12",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Eduard Tutić"},
+				{"friend": "Mia Popić"},
+				{"friend": "Monika Rimac"},
+				{"friend": "Saša Škrtić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Ivo Čelina",
+			"name": "Ivo",
+			"surname": "Čelina",
+			"age": "27",
+			"gender": "MALE",
+			"friends": [
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Gordan Lucić",
+			"name": "Gordan",
+			"surname": "Lucić",
+			"age": "28",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Nada Sudar"},
+				{"friend": "Jagoda Draženović"},
+				{"friend": "Ljubomir Jurišić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Ljubomir Jurišić",
+			"name": "Ljubomir",
+			"surname": "Jurišić",
+			"age": "38",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Antonija Salinović"},
+				{"friend": "Jagoda Draženović"},
+				{"friend": "Gordan Lucić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Jagoda Draženović",
+			"name": "Jagoda",
+			"surname": "Draženović",
+			"age": "61",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Ljubomir Jurišić"},
+				{"friend": "Mia Popić"},
+				{"friend": "Nada Sudar"},
+				{"friend": "Gordan Lucić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Monika Rimac",
+			"name": "Monika",
+			"surname": "Rimac",
+			"age": "16",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Zoran Goreta"},
+				{"friend": "Eduard Tutić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Mia Popić",
+			"name": "Mia",
+			"surname": "Popić",
+			"age": "22",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Antonija Salinović"},
+				{"friend": "Mirjam Devčić"},
+				{"friend": "Zoran Goreta"},
+				{"friend": "Jagoda Draženović"},
+				{"friend": "Eduard Tutić"},
+				{"friend": "Lea Grubić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Nada Sudar",
+			"name": "Nada",
+			"surname": "Sudar",
+			"age": "25",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Jagoda Draženović"},
+				{"friend": "Gordan Lucić"},
+				{"friend": "Eduard Tutić"},
+				{"friend": "Saša Škrtić"},
+				{"friend": "Lea Grubić"},
+				{"friend": "Mirjam Devčić"},
+				{"friend": "Antonija Salinović"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Mirjam Devčić",
+			"name": "Mirjam",
+			"surname": "Devčić",
+			"age": "69",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Mia Popić"},
+				{"friend": "Lea Grubić"},
+				{"friend": "Nada Sudar"},
+				{"friend": "Eduard Tutić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Lea Grubić",
+			"name": "Lea",
+			"surname": "Grubić",
+			"age": "51",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Mirjam Devčić"},
+				{"friend": "Mia Popić"},
+				{"friend": "Nada Sudar"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Antonija Salinović",
+			"name": "Antonija",
+			"surname": "Salinović",
+			"age": "21",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Ljubomir Jurišić"},
+				{"friend": "Mia Popić"},
+				{"friend": "Duje Ravlić"},
+				{"friend": "Eduard Tutić"},
+				{"friend": "Nada Sudar"}
+			]	
+	}
+	}
+
+	]
+}

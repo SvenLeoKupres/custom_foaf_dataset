@@ -1,0 +1,17 @@
+9.6.2026.
+used model: microsoft/phi-2
+results in: test.xlsx
+number of generated tokens: 20
+number of used datapoints (people): 10
+used formats:
+    XML of the class, the IDs are numbers (foaf.xml),
+    natural language sentences (natural.txt),
+    RDF/XML of the class, the IDs are numbers (foaf.rdf),
+    JSON of the class, the IDs are numbers (foaf.json),
+    JSON of the class, IDs are people's full names (foaf_names.json),
+    XML of the class, the IDs are people's full names (foaf_names.xml),
+    RDF/XML of the class, the IDs are people's full names (foaf_names.rdf),
+    natural language sentences within a JSON structure (natural.json)
+method: Gave only the XML with names as IDs/NL data of the person considered in the query (the best and worst performing formats previously) into the system prompt before the instruction.
+The system prompt used is: Answer questions about this data in as few words as possible
+The question was given in the user prompt.

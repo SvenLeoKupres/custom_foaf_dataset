@@ -1,0 +1,139 @@
+{
+	"people": [
+	{
+		"human": {
+			"id": "Saša Škrtić",
+			"name": "Saša",
+			"surname": "Škrtić",
+			"age": "17",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Duje Ravlić"},
+				{"friend": "Zoran Goreta"},
+				{"friend": "Jagoda Draženović"},
+				{"friend": "Monika Rimac"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Duje Ravlić",
+			"name": "Duje",
+			"surname": "Ravlić",
+			"age": "18",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Saša Škrtić"},
+				{"friend": "Ivo Čelina"},
+				{"friend": "Mirjam Devčić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Eduard Tutić",
+			"name": "Eduard",
+			"surname": "Tutić",
+			"age": "21",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Zoran Goreta"},
+				{"friend": "Ivo Čelina"},
+				{"friend": "Monika Rimac"},
+				{"friend": "Nada Sudar"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Zoran Goreta",
+			"name": "Zoran",
+			"surname": "Goreta",
+			"age": "39",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Saša Škrtić"},
+				{"friend": "Eduard Tutić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Ivo Čelina",
+			"name": "Ivo",
+			"surname": "Čelina",
+			"age": "24",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "Duje Ravlić"},
+				{"friend": "Eduard Tutić"},
+				{"friend": "Jagoda Draženović"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Jagoda Draženović",
+			"name": "Jagoda",
+			"surname": "Draženović",
+			"age": "11",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Saša Škrtić"},
+				{"friend": "Ivo Čelina"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Monika Rimac",
+			"name": "Monika",
+			"surname": "Rimac",
+			"age": "10",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Saša Škrtić"},
+				{"friend": "Eduard Tutić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Mia Popić",
+			"name": "Mia",
+			"surname": "Popić",
+			"age": "18",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Mirjam Devčić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Nada Sudar",
+			"name": "Nada",
+			"surname": "Sudar",
+			"age": "19",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Eduard Tutić"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "Mirjam Devčić",
+			"name": "Mirjam",
+			"surname": "Devčić",
+			"age": "41",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "Duje Ravlić"},
+				{"friend": "Mia Popić"}
+			]	
+	}
+	}
+
+	]
+}

@@ -1,0 +1,238 @@
+{
+	"statements": [
+		{
+			"statement": "Saša Škrtić is 65 years old."
+		},
+		{
+			"statement": "Saša Škrtić is a male."
+		},
+		{
+			"statement": "Saša Škrtić and Nada Sudar are friends."
+		},
+		{
+			"statement": "Saša Škrtić and Zoran Goreta are friends."
+		},
+		{
+			"statement": "Duje Ravlić is 38 years old."
+		},
+		{
+			"statement": "Duje Ravlić is a male."
+		},
+		{
+			"statement": "Duje Ravlić and Antonija Salinović are friends."
+		},
+		{
+			"statement": "Eduard Tutić is 64 years old."
+		},
+		{
+			"statement": "Eduard Tutić is a male."
+		},
+		{
+			"statement": "Eduard Tutić and Zoran Goreta are friends."
+		},
+		{
+			"statement": "Eduard Tutić and Mia Popić are friends."
+		},
+		{
+			"statement": "Eduard Tutić and Nada Sudar are friends."
+		},
+		{
+			"statement": "Eduard Tutić and Monika Rimac are friends."
+		},
+		{
+			"statement": "Eduard Tutić and Antonija Salinović are friends."
+		},
+		{
+			"statement": "Eduard Tutić and Mirjam Devčić are friends."
+		},
+		{
+			"statement": "Zoran Goreta is 12 years old."
+		},
+		{
+			"statement": "Zoran Goreta is a male."
+		},
+		{
+			"statement": "Zoran Goreta and Eduard Tutić are friends."
+		},
+		{
+			"statement": "Zoran Goreta and Mia Popić are friends."
+		},
+		{
+			"statement": "Zoran Goreta and Monika Rimac are friends."
+		},
+		{
+			"statement": "Zoran Goreta and Saša Škrtić are friends."
+		},
+		{
+			"statement": "Ivo Čelina is 27 years old."
+		},
+		{
+			"statement": "Ivo Čelina is a male."
+		},
+		{
+			"statement": "Gordan Lucić is 28 years old."
+		},
+		{
+			"statement": "Gordan Lucić is a male."
+		},
+		{
+			"statement": "Gordan Lucić and Nada Sudar are friends."
+		},
+		{
+			"statement": "Gordan Lucić and Jagoda Draženović are friends."
+		},
+		{
+			"statement": "Gordan Lucić and Ljubomir Jurišić are friends."
+		},
+		{
+			"statement": "Ljubomir Jurišić is 38 years old."
+		},
+		{
+			"statement": "Ljubomir Jurišić is a male."
+		},
+		{
+			"statement": "Ljubomir Jurišić and Antonija Salinović are friends."
+		},
+		{
+			"statement": "Ljubomir Jurišić and Jagoda Draženović are friends."
+		},
+		{
+			"statement": "Ljubomir Jurišić and Gordan Lucić are friends."
+		},
+		{
+			"statement": "Jagoda Draženović is 61 years old."
+		},
+		{
+			"statement": "Jagoda Draženović is a female."
+		},
+		{
+			"statement": "Jagoda Draženović and Ljubomir Jurišić are friends."
+		},
+		{
+			"statement": "Jagoda Draženović and Mia Popić are friends."
+		},
+		{
+			"statement": "Jagoda Draženović and Nada Sudar are friends."
+		},
+		{
+			"statement": "Jagoda Draženović and Gordan Lucić are friends."
+		},
+		{
+			"statement": "Monika Rimac is 16 years old."
+		},
+		{
+			"statement": "Monika Rimac is a female."
+		},
+		{
+			"statement": "Monika Rimac and Zoran Goreta are friends."
+		},
+		{
+			"statement": "Monika Rimac and Eduard Tutić are friends."
+		},
+		{
+			"statement": "Mia Popić is 22 years old."
+		},
+		{
+			"statement": "Mia Popić is a female."
+		},
+		{
+			"statement": "Mia Popić and Antonija Salinović are friends."
+		},
+		{
+			"statement": "Mia Popić and Mirjam Devčić are friends."
+		},
+		{
+			"statement": "Mia Popić and Zoran Goreta are friends."
+		},
+		{
+			"statement": "Mia Popić and Jagoda Draženović are friends."
+		},
+		{
+			"statement": "Mia Popić and Eduard Tutić are friends."
+		},
+		{
+			"statement": "Mia Popić and Lea Grubić are friends."
+		},
+		{
+			"statement": "Nada Sudar is 25 years old."
+		},
+		{
+			"statement": "Nada Sudar is a female."
+		},
+		{
+			"statement": "Nada Sudar and Jagoda Draženović are friends."
+		},
+		{
+			"statement": "Nada Sudar and Gordan Lucić are friends."
+		},
+		{
+			"statement": "Nada Sudar and Eduard Tutić are friends."
+		},
+		{
+			"statement": "Nada Sudar and Saša Škrtić are friends."
+		},
+		{
+			"statement": "Nada Sudar and Lea Grubić are friends."
+		},
+		{
+			"statement": "Nada Sudar and Mirjam Devčić are friends."
+		},
+		{
+			"statement": "Nada Sudar and Antonija Salinović are friends."
+		},
+		{
+			"statement": "Mirjam Devčić is 69 years old."
+		},
+		{
+			"statement": "Mirjam Devčić is a female."
+		},
+		{
+			"statement": "Mirjam Devčić and Mia Popić are friends."
+		},
+		{
+			"statement": "Mirjam Devčić and Lea Grubić are friends."
+		},
+		{
+			"statement": "Mirjam Devčić and Nada Sudar are friends."
+		},
+		{
+			"statement": "Mirjam Devčić and Eduard Tutić are friends."
+		},
+		{
+			"statement": "Lea Grubić is 51 years old."
+		},
+		{
+			"statement": "Lea Grubić is a female."
+		},
+		{
+			"statement": "Lea Grubić and Mirjam Devčić are friends."
+		},
+		{
+			"statement": "Lea Grubić and Mia Popić are friends."
+		},
+		{
+			"statement": "Lea Grubić and Nada Sudar are friends."
+		},
+		{
+			"statement": "Antonija Salinović is 21 years old."
+		},
+		{
+			"statement": "Antonija Salinović is a female."
+		},
+		{
+			"statement": "Antonija Salinović and Ljubomir Jurišić are friends."
+		},
+		{
+			"statement": "Antonija Salinović and Mia Popić are friends."
+		},
+		{
+			"statement": "Antonija Salinović and Duje Ravlić are friends."
+		},
+		{
+			"statement": "Antonija Salinović and Eduard Tutić are friends."
+		},
+		{
+			"statement": "Antonija Salinović and Nada Sudar are friends."
+		},
+	]
+}

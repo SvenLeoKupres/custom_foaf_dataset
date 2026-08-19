@@ -1,0 +1,11 @@
+7.4.2026.
+used model: Llama-3.2-3B-Instruct
+results in: test.xlsx
+used formats:
+    XML of the class, the IDs are the people's first names. Removed the property "surname" (foaf.json)
+number of generated tokens: 10
+number of used datapoints (people): 6, 10, 14, 20 (tried all 4)
+method: added the contents of the file as a system prompt, as well as the line "Answer questions about this data in as few words as possible"
+
+
+Note: merged with experiment6, experiment3, experiment7 and experiment11 (respective of the number of datapoints) for easier analysis

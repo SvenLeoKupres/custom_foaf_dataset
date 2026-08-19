@@ -1,0 +1,209 @@
+{
+	"people": [
+	{
+		"human": {
+			"id": "0",
+			"name": "Saša",
+			"surname": "Škrtić",
+			"age": "65",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "3"},
+				{"friend": "10"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "1",
+			"name": "Duje",
+			"surname": "Ravlić",
+			"age": "38",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "13"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "2",
+			"name": "Eduard",
+			"surname": "Tutić",
+			"age": "64",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "3"},
+				{"friend": "8"},
+				{"friend": "9"},
+				{"friend": "10"},
+				{"friend": "11"},
+				{"friend": "13"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "3",
+			"name": "Zoran",
+			"surname": "Goreta",
+			"age": "12",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "2"},
+				{"friend": "0"},
+				{"friend": "8"},
+				{"friend": "9"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "4",
+			"name": "Ivo",
+			"surname": "Čelina",
+			"age": "27",
+			"gender": "MALE",
+			"friends": [
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "5",
+			"name": "Gordan",
+			"surname": "Lucić",
+			"age": "28",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "6"},
+				{"friend": "7"},
+				{"friend": "10"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "6",
+			"name": "Ljubomir",
+			"surname": "Jurišić",
+			"age": "38",
+			"gender": "MALE",
+			"friends": [
+				{"friend": "5"},
+				{"friend": "7"},
+				{"friend": "13"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "7",
+			"name": "Jagoda",
+			"surname": "Draženović",
+			"age": "61",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "6"},
+				{"friend": "5"},
+				{"friend": "9"},
+				{"friend": "10"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "8",
+			"name": "Monika",
+			"surname": "Rimac",
+			"age": "16",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "3"},
+				{"friend": "2"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "9",
+			"name": "Mia",
+			"surname": "Popić",
+			"age": "22",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "3"},
+				{"friend": "7"},
+				{"friend": "2"},
+				{"friend": "11"},
+				{"friend": "12"},
+				{"friend": "13"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "10",
+			"name": "Nada",
+			"surname": "Sudar",
+			"age": "25",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "7"},
+				{"friend": "5"},
+				{"friend": "2"},
+				{"friend": "0"},
+				{"friend": "11"},
+				{"friend": "12"},
+				{"friend": "13"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "11",
+			"name": "Mirjam",
+			"surname": "Devčić",
+			"age": "69",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "9"},
+				{"friend": "10"},
+				{"friend": "2"},
+				{"friend": "12"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "12",
+			"name": "Lea",
+			"surname": "Grubić",
+			"age": "51",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "11"},
+				{"friend": "9"},
+				{"friend": "10"}
+			]	
+	}
+	},
+	{
+		"human": {
+			"id": "13",
+			"name": "Antonija",
+			"surname": "Salinović",
+			"age": "21",
+			"gender": "FEMALE",
+			"friends": [
+				{"friend": "6"},
+				{"friend": "9"},
+				{"friend": "1"},
+				{"friend": "2"},
+				{"friend": "10"}
+			]	
+	}
+	}
+
+	]
+}

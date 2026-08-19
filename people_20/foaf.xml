@@ -1,0 +1,282 @@
+<Humans>
+	<Human id="0">
+		<name>Saša</name>
+		<surname>Škrtić</surname>
+		<age>44</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="3"/>
+			<friend ref="9"/>
+			<friend ref="11"/>
+			<friend ref="14"/>
+			<friend ref="16"/>
+			<friend ref="17"/>
+		</friends>
+	</Human>
+	<Human id="1">
+		<name>Duje</name>
+		<surname>Ravlić</surname>
+		<age>18</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="2"/>
+			<friend ref="5"/>
+			<friend ref="7"/>
+			<friend ref="8"/>
+			<friend ref="9"/>
+			<friend ref="14"/>
+			<friend ref="15"/>
+			<friend ref="17"/>
+		</friends>
+	</Human>
+	<Human id="2">
+		<name>Eduard</name>
+		<surname>Tutić</surname>
+		<age>17</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="1"/>
+			<friend ref="3"/>
+			<friend ref="5"/>
+			<friend ref="7"/>
+			<friend ref="8"/>
+			<friend ref="10"/>
+			<friend ref="13"/>
+			<friend ref="14"/>
+			<friend ref="15"/>
+			<friend ref="17"/>
+		</friends>
+	</Human>
+	<Human id="3">
+		<name>Zoran</name>
+		<surname>Goreta</surname>
+		<age>66</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="0"/>
+			<friend ref="2"/>
+			<friend ref="7"/>
+			<friend ref="15"/>
+			<friend ref="17"/>
+		</friends>
+	</Human>
+	<Human id="4">
+		<name>Ivo</name>
+		<surname>Čelina</surname>
+		<age>65</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="6"/>
+			<friend ref="9"/>
+			<friend ref="10"/>
+			<friend ref="13"/>
+			<friend ref="14"/>
+			<friend ref="18"/>
+		</friends>
+	</Human>
+	<Human id="5">
+		<name>Gordan</name>
+		<surname>Lucić</surname>
+		<age>27</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="1"/>
+			<friend ref="2"/>
+			<friend ref="7"/>
+			<friend ref="8"/>
+			<friend ref="12"/>
+			<friend ref="16"/>
+			<friend ref="17"/>
+			<friend ref="19"/>
+		</friends>
+	</Human>
+	<Human id="6">
+		<name>Ljubomir</name>
+		<surname>Jurišić</surname>
+		<age>27</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="4"/>
+			<friend ref="10"/>
+			<friend ref="11"/>
+			<friend ref="12"/>
+			<friend ref="15"/>
+		</friends>
+	</Human>
+	<Human id="7">
+		<name>Vladimir</name>
+		<surname>Svalina</surname>
+		<age>6</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="1"/>
+			<friend ref="3"/>
+			<friend ref="5"/>
+			<friend ref="2"/>
+			<friend ref="9"/>
+			<friend ref="10"/>
+			<friend ref="13"/>
+		</friends>
+	</Human>
+	<Human id="8">
+		<name>Tomislav</name>
+		<surname>Šoštarić</surname>
+		<age>31</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="2"/>
+			<friend ref="1"/>
+			<friend ref="5"/>
+			<friend ref="10"/>
+		</friends>
+	</Human>
+	<Human id="9">
+		<name>Nikola</name>
+		<surname>Prelošnjak</surname>
+		<age>65</age>
+		<gender>MALE</gender>
+		<friends>
+			<friend ref="0"/>
+			<friend ref="1"/>
+			<friend ref="4"/>
+			<friend ref="7"/>
+		</friends>
+	</Human>
+	<Human id="10">
+		<name>Jagoda</name>
+		<surname>Draženović</surname>
+		<age>25</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="2"/>
+			<friend ref="6"/>
+			<friend ref="8"/>
+			<friend ref="7"/>
+			<friend ref="4"/>
+			<friend ref="12"/>
+			<friend ref="18"/>
+		</friends>
+	</Human>
+	<Human id="11">
+		<name>Monika</name>
+		<surname>Rimac</surname>
+		<age>37</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="0"/>
+			<friend ref="6"/>
+			<friend ref="13"/>
+			<friend ref="14"/>
+			<friend ref="15"/>
+		</friends>
+	</Human>
+	<Human id="12">
+		<name>Mia</name>
+		<surname>Popić</surname>
+		<age>9</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="10"/>
+			<friend ref="6"/>
+			<friend ref="5"/>
+			<friend ref="13"/>
+			<friend ref="15"/>
+			<friend ref="17"/>
+		</friends>
+	</Human>
+	<Human id="13">
+		<name>Nada</name>
+		<surname>Sudar</surname>
+		<age>56</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="11"/>
+			<friend ref="12"/>
+			<friend ref="7"/>
+			<friend ref="4"/>
+			<friend ref="2"/>
+			<friend ref="15"/>
+			<friend ref="17"/>
+			<friend ref="18"/>
+		</friends>
+	</Human>
+	<Human id="14">
+		<name>Mirjam</name>
+		<surname>Devčić</surname>
+		<age>37</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="11"/>
+			<friend ref="4"/>
+			<friend ref="0"/>
+			<friend ref="1"/>
+			<friend ref="2"/>
+			<friend ref="17"/>
+		</friends>
+	</Human>
+	<Human id="15">
+		<name>Lea</name>
+		<surname>Grubić</surname>
+		<age>31</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="6"/>
+			<friend ref="1"/>
+			<friend ref="13"/>
+			<friend ref="12"/>
+			<friend ref="2"/>
+			<friend ref="11"/>
+			<friend ref="3"/>
+			<friend ref="17"/>
+			<friend ref="19"/>
+		</friends>
+	</Human>
+	<Human id="16">
+		<name>Antonija</name>
+		<surname>Salinović</surname>
+		<age>39</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="5"/>
+			<friend ref="0"/>
+		</friends>
+	</Human>
+	<Human id="17">
+		<name>Cvijeta</name>
+		<surname>Svetličić</surname>
+		<age>38</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="0"/>
+			<friend ref="3"/>
+			<friend ref="14"/>
+			<friend ref="13"/>
+			<friend ref="15"/>
+			<friend ref="12"/>
+			<friend ref="2"/>
+			<friend ref="5"/>
+			<friend ref="1"/>
+		</friends>
+	</Human>
+	<Human id="18">
+		<name>Irena</name>
+		<surname>Jurilj</surname>
+		<age>20</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="10"/>
+			<friend ref="4"/>
+			<friend ref="13"/>
+		</friends>
+	</Human>
+	<Human id="19">
+		<name>Stela</name>
+		<surname>Mišković</surname>
+		<age>54</age>
+		<gender>FEMALE</gender>
+		<friends>
+			<friend ref="15"/>
+			<friend ref="5"/>
+		</friends>
+	</Human>
+</Humans>

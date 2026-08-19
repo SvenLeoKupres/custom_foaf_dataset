@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#
+	xmlns:foaf="http://xmlns.com/foaf/0.1/
+xmlns:schema="http://schema.org/">
+
+	<foaf:Person rdf:about="#Saša_Škrtić">
+		<foaf:givenName>Saša</foaf:givenName>
+		<foaf:familyName>Škrtić</foaf:familyName>
+		<foaf:age>43</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#Duje_Ravlić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Duje_Ravlić">
+		<foaf:givenName>Duje</foaf:givenName>
+		<foaf:familyName>Ravlić</foaf:familyName>
+		<foaf:age>35</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#Saša_Škrtić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Eduard_Tutić">
+		<foaf:givenName>Eduard</foaf:givenName>
+		<foaf:familyName>Tutić</foaf:familyName>
+		<foaf:age>43</foaf:age>
+		<foaf:gender>MALE</foaf:gender>
+		<foaf:knows rdf:resource="#Mia_Popić"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Jagoda_Draženović">
+		<foaf:givenName>Jagoda</foaf:givenName>
+		<foaf:familyName>Draženović</foaf:familyName>
+		<foaf:age>20</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Monika_Rimac"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Monika_Rimac">
+		<foaf:givenName>Monika</foaf:givenName>
+		<foaf:familyName>Rimac</foaf:familyName>
+		<foaf:age>20</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Jagoda_Draženović"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="#Mia_Popić">
+		<foaf:givenName>Mia</foaf:givenName>
+		<foaf:familyName>Popić</foaf:familyName>
+		<foaf:age>27</foaf:age>
+		<foaf:gender>FEMALE</foaf:gender>
+		<foaf:knows rdf:resource="#Eduard_Tutić"/>
+	</foaf:Person>
+</rdf:RDF>

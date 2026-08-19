@@ -1,0 +1,58 @@
+{
+	"statements": [
+		{
+			"statement": "Saša Škrtić is 43 years old."
+		},
+		{
+			"statement": "Saša Škrtić is a male."
+		},
+		{
+			"statement": "Saša Škrtić and Duje Ravlić are friends."
+		},
+		{
+			"statement": "Duje Ravlić is 35 years old."
+		},
+		{
+			"statement": "Duje Ravlić is a male."
+		},
+		{
+			"statement": "Duje Ravlić and Saša Škrtić are friends."
+		},
+		{
+			"statement": "Eduard Tutić is 43 years old."
+		},
+		{
+			"statement": "Eduard Tutić is a male."
+		},
+		{
+			"statement": "Eduard Tutić and Mia Popić are friends."
+		},
+		{
+			"statement": "Jagoda Draženović is 20 years old."
+		},
+		{
+			"statement": "Jagoda Draženović is a female."
+		},
+		{
+			"statement": "Jagoda Draženović and Monika Rimac are friends."
+		},
+		{
+			"statement": "Monika Rimac is 20 years old."
+		},
+		{
+			"statement": "Monika Rimac is a female."
+		},
+		{
+			"statement": "Monika Rimac and Jagoda Draženović are friends."
+		},
+		{
+			"statement": "Mia Popić is 27 years old."
+		},
+		{
+			"statement": "Mia Popić is a female."
+		},
+		{
+			"statement": "Mia Popić and Eduard Tutić are friends."
+		}
+	]
+}
